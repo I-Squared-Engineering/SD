@@ -10,6 +10,8 @@
 
   (C) Copyright 2010 SparkFun Electronics
 
+  ISQE-TEST
+
 */
 
 #include <SD.h>
