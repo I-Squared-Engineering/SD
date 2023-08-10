@@ -16,6 +16,7 @@
    You should have received a copy of the GNU General Public License
    along with the Arduino Sd2Card Library.  If not, see
    <http://www.gnu.org/licenses/>.
+   ISQE
 */
 #define USE_SPI_LIB
 #include <Arduino.h>
